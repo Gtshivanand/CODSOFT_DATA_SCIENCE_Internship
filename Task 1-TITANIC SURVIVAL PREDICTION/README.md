@@ -1,5 +1,11 @@
 # TITANIC SURVIVAL PREDICTION:
 
+# Introduction :
+The Titanic Survival Prediction project is a classic and widely recognized machine learning task. It involves analyzing and predicting the likelihood of survival for passengers aboard the Titanic based on various factors such as their age, gender, ticket class, and more. This project is both an excellent starting point for beginners and a challenging problem for advanced practitioners due to the real-world complexity of the dataset.
+
+# Background:
+On April 15, 1912, the Titanic, a British passenger liner, sank after hitting an iceberg during its maiden voyage. Over 1,500 passengers and crew lost their lives, making it one of the deadliest maritime disasters in modern history. The tragedy has since been a subject of intense study and analysis.
+
 # Task Description:
 
 * Use the Titanic dataset to build a model that predicts whether a passenger on Titanic survived or not. This is a classic beginner project with readily available data.
@@ -39,30 +45,39 @@ The Titanic Dataset [link](https://www.kaggle.com/datasets/brendan45774/test-fil
 - Trained several classification models to predict survival, most of which performed well, likely due to the relatively small dataset size. Out of which, SVM model gave 98% accuracy and KNN model gave 96.4% accuracy
 - Model evaluation involved accuracy measurement and potentially other relevant metrics.
 
+# visualization:
+ 
+  ###  Exploratory Data Analysis (EDA):
 
-  # Exploratory Data Analysis (EDA):
-
-  # Finding the Missing values:
-
-
-  # Handling the Missing values:
-
-  # Distribution of Survival:
-
-  # Distribution for survival distribution by Sex:
+### Finding the Missing values:
+<img src = "https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/blob/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION/Images/missing%20values.png"/>
 
 
-  # Distribution for Survival by Passenger Class:
+### Handling the Missing values:
+<img src = "https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/blob/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION/Images/ReplacedMissing%20values.png"/>
 
-  # Distribution for Survival by Port of Embarkation:
+### Distribution of Survival:
+<img src = "https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/blob/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION/Images/Distribution%20of%20Survival.png"/>
 
-  # correlation matrix:
+### Distribution for survival distribution by Sex:
+<img src = "https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/blob/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION/Images/Distribution%20of%20Survival%20by%20Sex.png"/>
 
 
-  # Model Training:
+### Distribution for Survival by Passenger Class:
+<img src = "https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/blob/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION/Images/Distribution%20for%20Survival%20by%20Passenger%20Class.png"/>
+
+### Distribution for Survival by Port of Embarkation:
+<img src = "https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/blob/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION/Images/Distribution%20for%20Survival%20by%20Port%20of%20Embarkation.png"/>
+
+### correlation matrix:
+<img src = "https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/blob/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION/Images/Correlation%20Heatmap.png"/>
 
 
-  # 10-fold Cross Validation Results:
+### Model Training:
+<img src = "https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/blob/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION/Images/final_accuracy%20.png"/>
+
+ ### 10-fold Cross Validation Results:
+<img src = "https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/blob/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION/Images/10-fold%20Cross%20Validation%20Results.png"/>
 
 
   # Conclusion:
