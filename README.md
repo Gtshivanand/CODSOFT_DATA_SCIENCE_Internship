@@ -49,6 +49,30 @@ A showcase of my work as part of the CODSOFT Data Science Internship. This repos
 
 
 
+# Feedback and Suggestions:
+
+Thank you for visiting my repository! If you have any questions or feedback, feel free to reach out.
+
+I’d love to hear your thoughts, feedback, and suggestions! Feel free to connect with me:
+
+ **LinkedIn**: [Shivanand Nashi](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)
+ 
+ **Email**: shivanandnashi97@gmail.com
+
+
+Looking forward to connecting and exchanging ideas!
+
+# ✨ Support this project!
+If you found this project helpful or interesting, please consider giving it a ⭐ on GitHub!
+Your support helps keep the project active and encourages further development.
+
+Thank you for your support! 💖
+
+
+
+
+
+
 
 
 
