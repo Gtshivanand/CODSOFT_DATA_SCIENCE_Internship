@@ -2,6 +2,9 @@
 
 Welcome to my CODSOFT Data Science Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at CODSOFT. Each project showcases my skills in data analysis, machine learning, and problem-solving. 
 
+
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/CodSoft%20Data%20Science%20Intership%20Offter%20Letter.png.jpg"/>
+
 # Description:
 A showcase of my work as part of the CODSOFT Data Science Internship. This repository reflects my journey in applying data science techniques to solve business challenges and extract actionable insights from data.
 
@@ -51,6 +54,11 @@ A showcase of my work as part of the CODSOFT Data Science Internship. This repos
   - TASK: Build a model that predicts the rating of a movie based on features like genre, director, and actors. You can use regression techniques to tackle this problem. The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics. Movie Rating Prediction project enables you to explore data analysis, preprocessing, feature engineering, and machine learning modeling techniques. It provides insights into the factors that influence movie ratings and allows you to build a model that can estimate the ratings of movies accurately.
 
 - [Github Link](https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/tree/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON)
+
+# CONCLUSION: 
+
+The Codsoft Data Science Internship has been an enriching experience, providing me with the skills and knowledge to tackle real-world data challenges. I am grateful for the opportunity to contribute to meaningful projects and look forward to applying these skills in future endeavors.
+
 
 # Feedback and Suggestions:
 
