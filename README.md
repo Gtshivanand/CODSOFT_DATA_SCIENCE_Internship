@@ -36,7 +36,7 @@ A showcase of my work as part of the CODSOFT Data Science Internship. This repos
 
   ### DATA SCIENCE TASKS:
 
- **TASK 1**: TITANIC SURVIVAL PREDICTION
+ **TASK 1: TITANIC SURVIVAL PREDICTION**
 
  <img src = "https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/blob/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION/Images/TitanicShip.jpg"/>
   - SOURCE: https://www.kaggle.com/datasets/yasserh/titanic-dataset/
@@ -44,10 +44,12 @@ A showcase of my work as part of the CODSOFT Data Science Internship. This repos
 
 - [Github Link](https://github.com/Gtshivanand/-CODSOFT-DATA-SCIENCE-Internship/tree/main/Task%201-TITANIC%20SURVIVAL%20PREDICTION)
 
+**TASK 2: MOVIE RATING PREDICTION WITH PYTHON**
 
-
-
-
+  <img src = "https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/melhores-series-imdb.jpg"/>
+  - SOURCE: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
+  - TASK: Build a model that predicts the rating of a movie based on features like genre, director, and actors. You can use regression techniques to tackle this problem. The goal is to analyze historical movie data and develop a model that accurately estimates the rating given to a movie by users or critics. Movie Rating Prediction project enables you to explore data analysis, preprocessing, feature engineering, and machine learning modeling techniques. It provides insights into the factors that influence movie ratings and allows you to build a model that can estimate the ratings of movies accurately.
+  - [Github Link](https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/tree/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON)
 
 # Feedback and Suggestions:
 
