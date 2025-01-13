@@ -74,12 +74,67 @@ Created detailed visualizations using Plotly to illustrate trends and insights f
 ### Handling the null values:
 <img src = "https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Replaced%20missing%20values.png"/>
 
- ### Outlier Detection
- ### Duration:
+### Outlier Detection
+
+##### Duration:
   <img src = "https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/DurationOutliers.png"/>
-  ### Rating:
+
+##### Rating:
   <img src = "https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/RatingOutliers.png"/>
+
+##### Year:
+  <img src =  "https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/YearOutlierspng.png"/>
+
+  ##### Votes:
+  <img src= "https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/VotesOutliers.png"/>
+
+  ##### Confirming Outlier Removal for 'Votes' column:
+   <img src= ""/>
+   
+  ##### Proportion of Movies by Top 10 Actors:
+   <img src= "https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Proportion%20of%20Movies%20by%20Top%2010%20Actors.png"/>
+   
+   ##### Top 5 Most Popular Movie Genres (Donut Chart):
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Top%205%20Most%20Popular%20Movie%20Genres%20(Donut%20Chart).png"/>
+   
+   ##### Annual Movie Release Over Time:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Annual%20Movie%20Release%20Over%20Time.png"/>
+   
+   ##### Average Movie Duration Trends Over the Years:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Average%20Movie%20Duration%20Trends%20Over%20the%20Years.png"/>
+
+##### Average Movie Votes Trends Over the Years:
+<img src =""/>
+
+##### Top 10 Years by Average Rating:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Top%2010%20Years%20by%20Average%20Rating.png"/>
+
+##### Distribution of Duration:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Distribution%20of%20Duration.png"/>
+
+##### Genre Word cloud Visualization:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/GENRE%20WORLD%20CLOUD.png"/>
+
+#####  Most Popular Genres of IMDb Indian Movies:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Most%20Popular%20Genres%20of%20IMDb%20Indian%20Movies.png"/>
+
+##### Most Popular multiple Genres of IMDb Indian Movies:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Most%20Popular%20Multiple%20Genres%20of%20IMDb%20Indian%20Movies.png"/>
  
+##### Distribution of Movie Ratings:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Distribution%20of%20Movie%20Ratings.png"/>
+
+##### Total Votes per Rating:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Total%20Votes%20per%20Rating.png"/>
+
+##### Top 20 Directors by Total No. of Movies:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Top%2020%20Directors%20by%20Total%20No.%20of%20Movies.png"/>
+
+#####  Top 20 Actors by Total No. of Movies:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Top%2020%20Actors%20by%20Total%20No.%20of%20Movies.png"/>
+ 
+ ##### Comparison of Regression Models - Accuracy Scores:
+   <img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Comparison%20of%20Regression%20Models%20-%20Accuracy%20Scores.png"/>
  
 # Conclusion:
 
