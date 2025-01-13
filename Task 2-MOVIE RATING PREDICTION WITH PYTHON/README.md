@@ -89,7 +89,7 @@ Created detailed visualizations using Plotly to illustrate trends and insights f
   <img src= "https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/VotesOutliers.png"/>
 
   ##### Confirming Outlier Removal for 'Votes' column:
-   <img src= ""/>
+   <img src= "https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Votes.png"/>
    
   ##### Proportion of Movies by Top 10 Actors:
    <img src= "https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Proportion%20of%20Movies%20by%20Top%2010%20Actors.png"/>
@@ -104,7 +104,7 @@ Created detailed visualizations using Plotly to illustrate trends and insights f
 <img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Average%20Movie%20Duration%20Trends%20Over%20the%20Years.png"/>
 
 ##### Average Movie Votes Trends Over the Years:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Average%20Movie%20Votes%20Trends%20Over%20the%20Years.png"/>
 
 ##### Top 10 Years by Average Rating:
 <img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON/images/Top%2010%20Years%20by%20Average%20Rating.png"/>
