@@ -55,6 +55,15 @@ A showcase of my work as part of the CODSOFT Data Science Internship. This repos
 
 - [Github Link](https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/tree/main/Task%202-MOVIE%20RATING%20PREDICTION%20WITH%20PYTHON)
 
+**TASK 3: IRIS FLOWER CLASSIFICATION**
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/iris_dataset.png"/>
+  - SOURCE: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+  - TASK: The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their measurements. Now, imagine that you have the measurements of Iris flowers categorized by their respective species. Your objective is to train a machine learning model that can learn from these measurements and accurately classify the Iris flowers into their respective species. Use the Iris dataset to develop a model that can classify iris
+flowers into different species based on their sepal and petal measurements. This dataset is widely used for introductory classification tasks.
+
+- [Github Link](https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/tree/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION)
+
+
 # CONCLUSION: 
 
 The Codsoft Data Science Internship has been an enriching experience, providing me with the skills and knowledge to tackle real-world data challenges. I am grateful for the opportunity to contribute to meaningful projects and look forward to applying these skills in future endeavors.
