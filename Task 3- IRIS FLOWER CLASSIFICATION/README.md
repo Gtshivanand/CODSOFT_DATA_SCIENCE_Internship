@@ -18,7 +18,7 @@ The main objective of this project is to develop a machine learning model that c
 
 
 # Problem Statement: 
-The objective of this project is to develop a machine learning model capable of classifying Iris flowers into one of three species—Setosa, Versicolor, or Virginica—based on the measurements of their sepals and petals. Specifically, the model will predict the species of the Iris flower based on the following features:
+The objective of this project is to develop a machine learning model capable of classifying Iris flowers into one of three speciesâ€”Setosa, Versicolor, or Virginicaâ€”based on the measurements of their sepals and petals. Specifically, the model will predict the species of the Iris flower based on the following features:
 * Sepal Length (cm)
 * Sepal Width (cm)
 * Petal Length (cm)
@@ -37,7 +37,7 @@ The objective of this project is to develop a machine learning model capable of 
 
 - The IRIS Dataset [link](https://www.kaggle.com/datasets/arshid/iris-flower-dataset) is a multivariate dataset which contains the data to quantify the morphologic variation of Iris flowers of three related species. 
 - The dataset consists of 50 samples from each of three species of Iris, namely Iris Setosa, Iris virginica, and Iris versicolor. 
-- Four features were measured from each sample which are the length and the width of the sepals and petals, in centimetre’s.
+- Four features were measured from each sample which are the length and the width of the sepals and petals, in centimetreâ€™s.
 - The dataset is a CSV file which contains a set of 150 records under 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).
 
 
@@ -65,77 +65,84 @@ The objective of this project is to develop a machine learning model capable of 
 # Visualization: 
 
 ### Visualization of missing values:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/missing%20values.png"/>
 
 ### Create a boxplot for each attribute excluding the target variable:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Boxplot%20of%20Outliers%20for%20Each%20Attribute.png"/>
 
 ### Create a boxplot for all the attributes with target variable :
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Box%20Plot%20of%20attribute.png"/>
 
 ### Boxplot after replacing the outliers with the median:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Boxplot%20after%20replacing%20the%20outliers%20with%20the%20median.png"/>
 
 ### Distribution of Species:
-
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Box%20Plot%20of%20attribute.png"/>
 ### Pair plot to visualize relationships between features:
-
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/species.png"/>
 
 ### Distribution of data for the various columns using Histogram:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Distribution%20of%20Sepal%20Length%20vs%20Petal%20Width.png"/>
 
-
-###  Histogram to visualize relationships between variables:
-
+### Â Histogram to visualize relationships between variables:
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/distribution%20by%20each%20species.png"/>
 
 ### Histogram with a density plot to visualize relationships between variables:
+<img src =""/>
 
 ### Swarm plots for each attribute:
+<img src =""/>
 
-###  Violin plot to visualize distribution and density by species:
+### Â Violin plot to visualize distribution and density by species:
+<img src =""/>
 
-###  Generic plot for Sepal length vs width and Petal length vs width:
+### Â Generic plot for Sepal length vs width and Petal length vs width:
+<img src =""/>
 
-###  Visualising  the correlation using a heatmap:
+### Â Visualising  the correlation using a heatmap:
+<img src =""/>
 
 ### Distribution of Species after encoding:
+<img src =""/>
 
 ###  Displaying the Confusion Matrix for Logistic Regression Model:
-
+<img src =""/>
 
 ###  Displaying the Confusion Matrix for K-Nearest Neighbours Model:
-
+<img src =""/>
 
 ###  Displaying the Confusion Matrix for  Gaussian Naive Bayes Model:
+<img src =""/>
 
-
-###  Displaying the Confusion Matrix for  Support Vector Machine Model:
-
+###  Displaying the Confusion Matrix for Â Support Vector Machine Model:
+<img src =""/>
 
 ###  Displaying the Confusion Matrix for Decision Tree Model:
-### Decision Tree Model:
+<img src =""/>
 
+### Decision Tree Model:
+<img src =""/>
 
 ###  Displaying the Confusion Matrix for Random Forest Model:
+<img src =""/>
 
 ### Random Forest Model:
+<img src =""/>
 
 ### Model Accuracy Comparison:
+<img src =""/>
 
 ### Predicted Species Distribution:
+<img src =""/>
 
 ### Distribution Predicted Species:
-
-
-
-
-
-
-
-
-
-
+<img src =""/>
 
 # Conclusion:
 
 - The dataset is balanced i.e. equal records are present for all three species.
 - We have four numerical columns while just one categorical column which in turn is our target column.
-- We have performed Explorative Data Analysis on the Iris dataset and created various colourful visualizations, including boxplots, pair plots, histogram,  histogram with a density plot, swarm Plots, violin plots, a correlation heatmap, and a pie chart for species distribution.
+- We have performed Explorative Data Analysis on the Iris dataset and created various colourful visualizations, including boxplots, pair plots, histogram, Â histogram with a density plot, swarm Plots, violin plots, a correlation heatmap, and a pie chart for species distribution.
 - These visualizations helped in understanding the relationships and differences between Iris species and features, making it easier to classify and analyse these flowers based on their measurements.
 - The setosa species is the most easily distinguishable because of its small feature size. The Versicolor and Virginica species are usually mixed and are sometimes hard to separate, while usually Versicolor has average feature sizes and virginica has larger feature sizes.
 - EDA with visualizations of the Iris dataset reveals that features like petal length and petal width are highly discriminative for distinguishing between the three Iris species. This information is crucial to build a machine learning model for Iris species classification.
