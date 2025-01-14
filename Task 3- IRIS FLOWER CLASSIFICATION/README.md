@@ -77,7 +77,8 @@ The objective of this project is to develop a machine learning model capable of 
 <img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Boxplot%20after%20replacing%20the%20outliers%20with%20the%20median.png"/>
 
 ### Distribution of Species:
-<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Box%20Plot%20of%20attribute.png"/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Distribution%20of%20Species.png"/>
+
 ### Pair plot to visualize relationships between features:
 <img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/species.png"/>
 
@@ -88,55 +89,55 @@ The objective of this project is to develop a machine learning model capable of 
 <img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/distribution%20by%20each%20species.png"/>
 
 ### Histogram with a density plot to visualize relationships between variables:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Attributes.png"/>
 
 ### Swarm plots for each attribute:
-<img src =""/>
+ <img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Attribute2.png"/>
 
 ###  Violin plot to visualize distribution and density by species:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/AttributesBoxplot.png"/>
 
 ###  Generic plot for Sepal length vs width and Petal length vs width:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Lenght%20vs%20Width.png"/>
 
 ###  Visualising  the correlation using a heatmap:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Correlation%20Heatmap.png"/>
 
 ### Distribution of Species after encoding:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Distribution%20of%20Species%20after%20encoding.png"/>
 
 ###  Displaying the Confusion Matrix for Logistic Regression Model:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Logistic%20Regression%20model%20%20Heatmap.png"/>
 
 ###  Displaying the Confusion Matrix for K-Nearest Neighbours Model:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/K-Nearest%20Neighbors%20Model%20Heatmap.png"/>
 
 ###  Displaying the Confusion Matrix for  Gaussian Naive Bayes Model:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Gaussian%20Naive%20Bayes%20Model%20Heatmap.png"/>
 
 ###  Displaying the Confusion Matrix for  Support Vector Machine Model:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/SVM_model%20Heatmap.png"/>
 
 ###  Displaying the Confusion Matrix for Decision Tree Model:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/DTree_model%20Heatmap.png"/>
 
 ### Decision Tree Model:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/DTree_model.png"/>
 
 ###  Displaying the Confusion Matrix for Random Forest Model:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Random%20Forest%20Model%20Heatmap.png"/>
 
 ### Random Forest Model:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/RF_model.png"/>
 
 ### Model Accuracy Comparison:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Model%20Accuracy%20Comparison.png"/>
 
 ### Predicted Species Distribution:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Predicted%20Species%20Distribution.png"/>
 
 ### Distribution Predicted Species:
-<img src =""/>
+<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION/Images/Distribution%20Predicted%20Species.png"/>
 
 # Conclusion:
 
