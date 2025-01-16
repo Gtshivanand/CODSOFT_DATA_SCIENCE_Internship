@@ -63,6 +63,16 @@ flowers into different species based on their sepal and petal measurements. This
 
 - [Github Link](https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/tree/main/Task%203-%20IRIS%20FLOWER%20CLASSIFICATION)
 
+  
+**TASK 4: SALES PREDICTION USING PYTHON**
+
+  <img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/Future_Sales_prediction.png"/>
+  - SOURCE: https://www.kaggle.com/code/ashydv/sales-prediction-simple-linear-regression/input
+  - TASK: Sales prediction involves forecasting the amount of a product that customers will purchase, taking into account various factors such as advertising expenditure, target audience segmentation, and advertising platform selection. In businesses that offer products or services, the role of a Data Scientist is crucial for predicting future sales. They utilize machine learning techniques in Python to analyze and interpret data, allowing them to make informed decisions regarding advertising costs. By leveraging these predictions, businesses can optimize their advertising strategies and maximize sales potential. Let's embark on the journey of sales prediction using machine learning in Python.
+  
+- [Github Link](https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/tree/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON)
+
+
 
 # CONCLUSION: 
 
