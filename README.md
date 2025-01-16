@@ -73,6 +73,15 @@ flowers into different species based on their sepal and petal measurements. This
 - [Github Link](https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/tree/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON)
 
 
+**TASK 5: CREDIT CARD FRAUD DETECTION**
+
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Credit%20Card%20Fraud%20Detection.jpeg"/>
+  - SOURCE: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+  - TASK: Build a machine learning model to identify fraudulent credit card transactions. Preprocess and normalize the transaction data, handle class imbalance issues, and split the dataset into training and testing sets. Train a classification algorithm, such as logistic regression or random forests, to classify transactions as fraudulent or genuine. Evaluate the model's performance using metrics like precision, recall, and F1-score, and consider techniques like oversampling or undersampling for improving results.
+  
+- [Github Link](https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/tree/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION)
+
+
 
 # CONCLUSION: 
 
