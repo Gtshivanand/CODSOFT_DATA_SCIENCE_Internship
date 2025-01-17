@@ -23,9 +23,9 @@ Credit card fraud is a growing concern in the financial industry, leading to sig
 - It covers two days, featuring 492 frauds out of 284,807 transactions. Notably, the dataset is highly unbalanced, with fraudulent transactions accounting for only 0.172% of all transactions.
 - This dataset exclusively includes numerical input variables resulting from a PCA transformation. Due to confidentiality constraints, the original features and additional background information aren't provided. 
 - The features V1 through V28 represent principal components obtained via PCA. However, 'Time' and 'Amount' are the only features not subjected to PCA.
-    - 'Time' indicates the seconds elapsed between each transaction and the first recorded transaction.
-    - 'Amount' signifies the transaction amount, potentially useful for example-dependent cost-sensitive learning.
-    - 'Class' represents the response variable, assuming a value of 1 for fraud and 0 otherwise.
+Â  Â  - 'Time' indicates the seconds elapsed between each transaction and the first recorded transaction.
+Â  Â  - 'Amount' signifies the transaction amount, potentially useful for example-dependent cost-sensitive learning.
+Â  Â  - 'Class' represents the response variable, assuming a value of 1 for fraud and 0 otherwise.
 
 
 
@@ -59,44 +59,78 @@ Credit card fraud is a growing concern in the financial industry, leading to sig
 
 ### Visualization of missing values:
 
+<img src=""/>
+
 ### details of both Fraudulent and Non-Fraudulent transaction amount:
+
+<img src=""/>
 
 ### details of both Fraudulent and Non-Fraudulent transaction time:
 
+<img src=""/>
+
 ### Plotting the distribution of all numerical features:
+
+<img src=""/>
+
 ### Plotting Distribution of Transaction Amount and Transaction Time:
+
+<img src=""/>
 
 ### Visualizing the class distribution in percentage:
 
+<img src=""/>
+
 ### Plotting Value Counts of 'Class' Column:
+
+<img src=""/>
 
 ### Correlation Matrix:
 
+<img src=""/>
+
 ### Plotting Balanced Classes with resampled data:
+
+<img src=""/>
 
 ### Plotting Distribution of Features by Class after Resampling:
 
+<img src=""/>
+
 ### Displaying the Confusion Matrix Logistic Regression Model:
+
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Precision-Recall%20Curve%20for%20Logistic%20Regression%20Model.png"/>
 
 ### Evaluate the model by AUPRC for Logistic Regression Model:
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Confusion%20Matrix2.png"/>
+
 ### Displaying the Confusion Matrix Random Forest Classifier Model:
+
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Precision-Recall%20Curve%20for%20Random%20Forest%20Classifier.png"/>
 
 ### Evaluate the model by AUPRC for Random Forest Classifier:
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Precision-Recall%20Curve%20for%20Random%20Forest%20Classifier.png"/>
+
 ### Plotting ROC and AUC Curve:
+
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/ROC%20Curve%20for%20Fraud%20Detection%20Models.png"/>
 
 ### F1 Scores for both the Models:
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/F1%20Scores%20for%20both%20the%20Models.png"/>
+
 ### Comparison of Model Performance Metrics:
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Comparison%20of%20Model%20Performance%20Metrics.png"/>
 
 # Conclusion:
 
 - Both models are effective in handling the classification task with high accuracy and balanced performance across classes. Random Forest classifier outperform the Logistic Regression in distinguishing between classes.
 - Data is highly imbalanced, so it needs to be under sampling or oversampling technique. I choose to do UnderSampling technique to balance the data.
 - The models show balanced performance in correctly identifying instances of both classes (0 and 1), as indicated by the similarity in f1 score and recall values.
-- Precision for both classes are also high, suggesting a good balance between  and recall. But Precision for Random Forest Classifier is more than compared to Precision of Logistic Regression.
+- Precision for both classes are also high, suggesting a good balance between Â and recall. But Precision for Random Forest Classifier is more than compared to Precision of Logistic Regression.
 - AUC-ROC is less sensitive to class imbalance than AUC-PR. In an imbalanced dataset, where one class is much more prevalent than the other, the ROC curve may look good even if the classifier is performing poorly on the minority class.
 - Depending on the specific requirements of the problem (e.g., the importance of false positives vs. false negatives), you may choose one model over the other based on the balance between precision and recall.
 - Consider the context of application and certain misclassifications which may tend to high cost than others when selecting a final model.
