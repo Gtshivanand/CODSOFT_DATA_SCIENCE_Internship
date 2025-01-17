@@ -1,5 +1,7 @@
 # SALES PREDICTION USING PYTHON:
 
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
+
 
 # Introduction: 
 
@@ -61,34 +63,59 @@ The advertising dataset [link](https://www.kaggle.com/code/ashydv/sales-predicti
 
 ### Visualization of missing values:
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/missing%20values.png"/>
+
 ### Visualizing outliers using boxplots:
+
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/Tv%20vs%20Newspaper%20vs%20Radio.png"/>
 
 ### Visualizing outliers for the target variable:
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/Sales.png"/>
+
 ### using scatterplot to see how sales is related to the other variables: 
+
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/sales_df.png"/>
 
 ### Relationship between Advertising Budgets and Sales:
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/Relationship%20between%20Advertising%20Budgets%20and%20Sales.png"/>
+
 ### Average Spend on Advertising Channels:
+
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/Average%20Spend%20on%20Advertising%20Channels.png"/>
 
 ### Checking correlation between variables:
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/correlation%20matrix.png"/>
+
 ###  Visualize Predicted Vs Actual Values (Linear Regression):
+
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/Actual%20vs%20Predicted%20Sales%20(Linear%20Regression).png"/>
 
 ###  Visualize Predicted Vs Actual Values(Lasso Regression):
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/Actual%20vs%20Predicted%20Sales%20(Lasso%20Regression).png"/>
 
 ###  Visualize Predicted Vs Actual Values(Ridge Regression):
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/Actual%20vs%20Predicted%20Sales%20(Ridge%20Regression).png"/>
+
 ###  Visualize Predicted Vs Actual Values(ElasticNet Regression):
+
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/Actual%20vs%20Predicted%20Sales%20(ElasticNet%20Regression).png"/>
 
 ###   Plotting the pie chart R-squared Scores of Regressors:
 
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/R-squared%20Scores%20of%20Regressors.png"/>
+
 ### Visualize Predicted Vs Actual Values for (Gradient Boosting Regression):
+
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/Actual%20vs%20Predicted%20Sales%20(Gradient%20Boosting%20Regression).png"/>
 
 ### MSE Scores of Models:
 
-
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%204-SALES%20PREDICTION%20USING%20PYTHON/Images/MSE%20Scores%20of%20Models.png"/>
 
 
 # Conclusion:
