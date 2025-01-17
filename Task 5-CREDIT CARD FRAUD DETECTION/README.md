@@ -1,5 +1,6 @@
 # CREDIT CARD FRAUD DETECTION:
 
+[![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)](https://www.python.org)  [![](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org) [![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/) [![](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)](https://www.scipy.org) [![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org) [![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)  [![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com) [![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io) [![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
 
 # Introduction:
 Credit card fraud detection aims to identify fraudulent transactions in real-time, protecting both consumers and financial institutions. Machine learning techniques, such as decision trees and neural networks, are used to analyse transaction patterns and detect anomalies, distinguishing between legitimate and fraudulent activity.
@@ -99,15 +100,15 @@ Credit card fraud is a growing concern in the financial industry, leading to sig
 
 ### Displaying the Confusion Matrix Logistic Regression Model:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Confusion%20Matrix.png"/>
 
 ### Evaluate the model by AUPRC for Logistic Regression Model:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Precision-Recall%20Curve%20for%20Logistic%20Regression%20Model.png"/>
 
 ### Displaying the Confusion Matrix Random Forest Classifier Model:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Confusion%20Matrix2.png"/>
 
 ### Evaluate the model by AUPRC for Random Forest Classifier:
 
