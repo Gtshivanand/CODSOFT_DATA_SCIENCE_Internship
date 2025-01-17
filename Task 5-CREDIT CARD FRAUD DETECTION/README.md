@@ -59,55 +59,55 @@ Credit card fraud is a growing concern in the financial industry, leading to sig
 
 ### Visualization of missing values:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/missing%20values.png"/>
 
 ### details of both Fraudulent and Non-Fraudulent transaction amount:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Trans_Amount.png"/>
 
 ### details of both Fraudulent and Non-Fraudulent transaction time:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Trans_time.png"/>
 
 ### Plotting the distribution of all numerical features:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/ccfd_df.png"/>
 
 ### Plotting Distribution of Transaction Amount and Transaction Time:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Distribution%20of%20Transaction%20Amount%20%26%20Time.png"/>
 
 ### Visualizing the class distribution in percentage:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Class%20Distribution.png"/>
 
 ### Plotting Value Counts of 'Class' Column:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Value%20Counts%20of%20column.png"/>
 
 ### Correlation Matrix:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/correlation%20matrix.png"/>
 
 ### Plotting Balanced Classes with resampled data:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Value%20Counts%20of%20class%20Column.png"/>
 
 ### Plotting Distribution of Features by Class after Resampling:
 
-<img src=""/>
+<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/resampling.png"/>
 
 ### Displaying the Confusion Matrix Logistic Regression Model:
 
-<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Precision-Recall%20Curve%20for%20Logistic%20Regression%20Model.png"/>
+<img src=""/>
 
 ### Evaluate the model by AUPRC for Logistic Regression Model:
 
-<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Confusion%20Matrix2.png"/>
+<img src=""/>
 
 ### Displaying the Confusion Matrix Random Forest Classifier Model:
 
-<img src="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/Task%205-CREDIT%20CARD%20FRAUD%20DETECTION/Images/Precision-Recall%20Curve%20for%20Random%20Forest%20Classifier.png"/>
+<img src=""/>
 
 ### Evaluate the model by AUPRC for Random Forest Classifier:
 
