@@ -2,9 +2,14 @@
 
 Welcome to my CODSOFT Data Science Internship Portfolio! In this repository, you will find a collection of projects that I have completed during my internship at CODSOFT. Each project showcases my skills in data analysis, machine learning, and problem-solving. 
 
+## Internship Offer Letter:
 
-<img src ="https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/CodSoft%20Data%20Science%20Intership%20Offter%20Letter.png.jpg"/>
+[CODSOFT Internship Offer Letter](https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/INTERNSHIP%20OFFER%20LETTER.pdf)
 
+
+## Internship Certificate
+
+[CODSOFT Internship Certificate](https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship/blob/main/CERTIFICATE%20OF%20COMPLETION.pdf)
 
 # INTRODUCTION:
 I am thrilled to share my journey during the CODSOFT Data Science Internship, where I had the opportunity to work on any three of five exciting projects/tasks that delved into different aspects of data science. This internship has been an invaluable learning experience, and I am excited to showcase the results of my hard work. Below are the tasks given by CODSOFT during this internship journey:
